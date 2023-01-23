@@ -40,6 +40,48 @@
         "regimeName": "ALARM",
         "regimeColor": "red"
         }
-        ]
+        ],
+        "safety": [
+            {
+            "id":1,
+            "timeFormat": "1997-07-16T19:20:30 +01:00 HKT",
+            "dataField": "Cumulative change 1",
+            "description": "imply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+            "regimeName": "SAFETY",
+            "regimeColor": "blue"
+            },
+            {
+            "id":2,
+            "timeFormat": "1997-07-16T19:20:30 +01:00 HKT",
+            "dataField": "Cumulative change 2",
+            "description": "imply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+            "regimeName": "SAFETY",
+            "regimeColor": "blue"
+            },
+            {
+            "id":3,
+            "timeFormat": "1997-07-16T19:20:30 +01:00 HKT",
+            "dataField": "Cumulative change 3",
+            "description": "imply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+            "regimeName": "SAFETY",
+            "regimeColor": "blue"
+            },
+            {
+            "id":4,
+            "timeFormat": "1997-07-16T19:20:30 +01:00 HKT",
+            "dataField": "Cumulative change 4",
+            "description": "imply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+            "regimeName": "SAFETY",
+            "regimeColor": "blue"
+            },
+            {
+            "id":5,
+            "timeFormat": "1997-07-16T19:20:30 +01:00 HKT",
+            "dataField": "Cumulative change 5",
+            "description": "imply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+            "regimeName": "SAFETY",
+            "regimeColor": "blue"
+            }
+            ]
 }
 
