@@ -124,6 +124,15 @@
         "regimeName": "RFI",
         "regimeColor": "blue"
         }
+    ],
+    "users": [
+        {
+            "userId": 1,
+            "userName": "Wesley Gregory",
+            "userLogo": "https://faces-img.xcdn.link/image-lorem-face-3360.jpg",
+            "role": "Administrator",
+            "clientLogo": ""
+        }
     ]
 }
 
